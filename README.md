@@ -1,1 +1,1 @@
-# Market-Segmentaion
+# Market-Segmentation
